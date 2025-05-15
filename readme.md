@@ -1,0 +1,1 @@
+Mybrary, Node.js, Express ve MongoDB kullanılarak geliştirilmiş basit bir kütüphane yönetim uygulamasıdır. Kullanıcıların kitapları ve yazarları ekleyip düzenleyebileceği, kitapları listeleyip arayabileceği bir web platformudur. 
